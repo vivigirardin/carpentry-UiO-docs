@@ -5,11 +5,11 @@ Vision/Mission Statement
 `Carpentry@UiO
 <https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/>`_ is the UiO local relay of the international Carpentries organisation. 
 
-We offers to PhD students, researchers and others at UiO, and beyond:
+We offer to PhD students, researchers and others at UiO, and beyond:
 
 - foundational coding and data science skills workshops
-- study Group events to dedicated to open and reproducible scienceshare knowledge, re-enforce learning or discuss new subjects for future workshops/lesson development
-- educational development and networking opportunities with the possibility to become Certified Carpentry instructor and/or Carpentry Instructor Trainer
+- study group events dedicated to open and reproducible scienceshare knowledge, re-enforce learning or discuss new subjects for future workshops/lesson development
+- educational development and networking opportunities with the possibility to become certified Carpentry Instructor and/or Carpentry Instructor Trainer
 
 
 
